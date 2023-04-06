@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Iz ✨
+
+I'm currently learning R with Prof. Rohan Alexander at the iSchool at U of T. Fun fact: I own 5 pet shrimp 🦐🦐🦐🦐🦐.
 
 <!--
 **iwl-leitch/iwl-leitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
